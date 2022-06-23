@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Calculos
+comment1.params=
+comment1.target=Calculos()
+comment2.params=
+comment2.target=Estado\ montarTudo()
+comment3.params=num
+comment3.target=Cidade[]\ criarCidades(int)
+comment4.params=num
+comment4.target=Escola[]\ criarEscolas(int)
+comment5.params=num
+comment5.target=java.util.ArrayList\ criarEstudantes(int)
+comment6.params=
+comment6.target=Estado\ criarEstado()
+numComments=7

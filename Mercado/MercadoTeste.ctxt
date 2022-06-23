@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MercadoTeste
+comment1.params=
+comment1.target=Rede\ montarTudo()
+comment2.params=num
+comment2.target=java.util.ArrayList\ criarVendas(int)
+comment3.params=num
+comment3.target=java.util.ArrayList\ criarProdutos(int)
+comment4.params=num
+comment4.target=java.util.ArrayList\ criarItens(int)
+comment5.params=num
+comment5.target=java.util.ArrayList\ criarMercados(int)
+comment6.params=
+comment6.target=Rede\ criarRede()
+numComments=7

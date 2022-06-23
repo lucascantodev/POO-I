@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SerieDeLucas
+comment1.params=p\ q
+comment1.target=SerieDeLucas(int,\ int)
+comment2.params=
+comment2.target=int\ proxTermo()
+comment3.params=n
+comment3.target=int\ saltarTermo(int)
+comment4.params=
+comment4.target=java.util.ArrayList\ getNumeros()
+numComments=5
